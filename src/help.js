@@ -110,7 +110,7 @@ const help = (prefix) => {
 〲┴┬➣DESC: Imagens aleatórias de neko
 〲┴┬➣USO: Apenas envie o comando
 〲
-〲┴┬➣ COMANDO: '${prefix}loli'
+〲┴┬➣ COMANDO: '${prefix}loli'(DESATIVADO)
 〲┴┬➣ DESC: Imagens de loli
 〲┴┬➣ USO: Apenas envie o comando
 〲
