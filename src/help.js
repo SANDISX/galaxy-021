@@ -3,13 +3,13 @@ const help = (prefix) => {
 
 
 ╭━⋆⃟⊱๑⋆⃟⊱๑ˌ⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱━
-〲┴┬➣♠️ XANDINHO 3.0♠️
+〲┴┬➣♠️ XANDINHO O BOT 3.0♠️
 〲
 〲┴┬➣𝐃𝐎𝐍𝐎: Tio Xande. 愛
 〲
-〲┴┬➣wa.me/+556392445315
+〲┴┬➣ Wa.me/+556392445315
 〲
-〲┴┬➣𝐒𝐓𝐀𝐓𝐔𝐒: ON
+〲┴┬➣𝐒𝐓𝐀𝐓𝐔𝐒: ONLINE PUTAS
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲╭─────⊣〘 𝗙𝗜𝗚𝗨𝗥𝗜𝗡𝗛𝗔 〙
 〲│
@@ -163,17 +163,17 @@ const help = (prefix) => {
 〲
 〲┴┬➣ COMANDO: '${prefix}kick'
 〲┴┬➣ DESC: Banir membros do grupo
-〲┴┬➣ USO: .kick @member
+〲┴┬➣ USO: .kick @Marcaromenbro
 〲┴┬➣ NOTA: Usado quando o bot é admin!
 〲
 〲┴┬➣ COMANDO: '${prefix}promote'
 〲┴┬➣ DESC: Torna um membro como adm 
-〲┴┬➣ USO: .promote @member
+〲┴┬➣ USO: .promote @marcaromenbro
 〲┴┬➣ NOTA: Usado quando o bot é admin!
 〲
 〲┴┬➣ COMANDO: '${prefix}demote'
 〲┴┬➣ DESC: Tornar o um adm como membro
-〲┴┬➣ USO: .demote @member
+〲┴┬➣ USO: .demote @marcaromenbro
 〲┴┬➣ NOTA: Usado quando o bot é admin!
 〲
 〲┴┬➣ COMANDO: '${prefix}linkgroup'
@@ -264,7 +264,7 @@ const help = (prefix) => {
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲╭────⊣〘 𝗦𝗨𝗣𝗢𝗥𝗧𝗘 〙
 〲│
-〲┴┬➣ Wpp: wa.me/556392445315
+〲┴┬➣ Wpp: Wa.me/556392445315
 〲︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 〲 
 〲 ║▌│█║▌│ █║▌│█│║▌║
