@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: Tio Xande
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: SANDISX
 <p align="center">
 <img src="https://avatars2.githubusercontent.com/u/76796419?s=400&u=6ba258f699dff529df594b33c5e23c586e4c0f5d&v=4" width="230" height="230"/>
 </p>
