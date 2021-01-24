@@ -139,7 +139,7 @@ const help = (prefix) => {
  ░⃟⃛┴┬➣USO: Apenas envie o comando 
  ░⃟⃛┴┬➣NOTA: Funciona somente no pv do bot, ou se for adm
  ░⃟⃛
- ░⃟⃛┴┬➣COMANDO:  '.shota'
+ ░⃟⃛┴┬➣COMANDO:  '.shota'(DESATIVADO)
  ░⃟⃛┴┬➣DESC: Imagens aleatórias de shota (loli masculinas)
  ░⃟⃛┴┬➣USO: Apenas envie o comando 
  ░⃟⃛
